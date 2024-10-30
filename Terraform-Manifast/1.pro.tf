@@ -33,4 +33,4 @@ provider "azurerm" {
 provider "random" {
 }
 
-
+#rubyadhana
